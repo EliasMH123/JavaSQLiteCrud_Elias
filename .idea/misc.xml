@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/drawable/boton.xml" value="0.16354166666666667" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/drawable/caja.xml" value="0.16354166666666667" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/drawable/ic_baseline_account_balance_24.xml" value="0.28802083333333334" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/drawable/ic_baseline_school_24.xml" value="0.28802083333333334" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/layout/activity_list_usuario.xml" value="0.14739583333333334" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/layout/activity_lista_docente.xml" value="0.25" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/layout/activity_lista_escuela.xml" value="0.25" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/layout/activity_principal.xml" value="0.14739583333333334" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/layout/activity_registrar_doc.xml" value="0.271875" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/layout/activity_registrar_esc.xml" value="0.271875" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/layout/activity_selection.xml" value="0.33" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/layout/activity_usuario.xml" value="0.33" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/layout/content_list_docente.xml" value="0.271875" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/layout/content_list_usuario.xml" value="0.14739583333333334" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/layout/content_lista_escuela.xml" value="0.271875" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/layout/docentes.xml" value="0.271875" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/layout/escuelas.xml" value="0.271875" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/layout/usuarios.xml" value="0.14739583333333334" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/menu/main.xml" value="0.14739583333333334" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/menu/menu_list_docente.xml" value="0.271875" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/menu/menu_list_escuela.xml" value="0.271875" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/menu/menu_list_usuario.xml" value="0.14739583333333334" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/menu/menu_login.xml" value="0.14739583333333334" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/menu/menu_main.xml" value="0.14739583333333334" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/menu/menu_registrar_docente.xml" value="0.271875" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/menu/menu_registrar_escuela.xml" value="0.271875" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/menu/menu_selection.xml" value="0.271875" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/menu/menu_user.xml" value="0.271875" />
+        <entry key="..\:/UPEU/6to CICLO/Aplicaciones Moviles/JavaSQLiteCrud/app/src/main/res/menu/menu_usuario.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
